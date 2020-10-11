@@ -5,12 +5,13 @@ Difficulty: Easy
 Problem Link: https://leetcode.com/problems/two-sum/
 """
 
+
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
 
         # Creating a dictionary to store number along with its index if the (target - value) is not found in this dict.
         my_dict = {}
-        
+
         # Using for loop.
         for i in range(len(nums)):
 
@@ -24,4 +25,4 @@ class Solution:
             else:
                 my_dict[nums[i]] = i
 
-    # As the problem states, there will always be one exact solution. So the output will surely be generated in the above loop.    
+    # As the problem states, there will always be one exact solution. So the output will surely be generated in the above loop.

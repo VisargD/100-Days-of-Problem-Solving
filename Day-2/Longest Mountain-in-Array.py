@@ -5,6 +5,7 @@ Difficulty: Medium
 Problem Link: https://leetcode.com/problems/longest-mountain-in-array/
 """
 
+
 class Solution:
     def longestMountain(self, A: List[int]) -> int:
 
@@ -14,7 +15,7 @@ class Solution:
 
         # Using for loop from 1 to len(A) - 1 to find local highest points in any array.
         for i in range(1, len(A) - 1):
-           
+
             # Any point is local highest if it is greater than its surrounding values.
             if A[i - 1] < A[i] > A[i + 1]:
 
@@ -33,18 +34,18 @@ class Solution:
                         left_index -= 1
                     else:
                         break
-                
+
                 # Go through the right part of highest point and count until the descending order is maintained.
                 # This means count until the element value keeps decreasing and stop as soon as it increases.
-                while right_index <  len(A) - 1:
-                    if A[right_index] > A[right_index + 1]:                        
+                while right_index < len(A) - 1:
+                    if A[right_index] > A[right_index + 1]:
                         count += 1
                         right_index += 1
-                    else: 
+                    else:
                         break
 
             # After every iteration, check the maximum out of current count and the maxi value.
             maxi = max(maxi, count)
 
         # Return the maximum mountain value.
-        return maxi        
+        return maxi
