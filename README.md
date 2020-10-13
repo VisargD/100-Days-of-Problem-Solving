@@ -14,3 +14,8 @@
 
   - [Path Crossing](https://leetcode.com/problems/path-crossing/)
   - [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+
+- Day-4
+
+  - [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)
+  - [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
