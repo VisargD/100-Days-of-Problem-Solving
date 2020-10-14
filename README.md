@@ -19,3 +19,8 @@
 
   - [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)
   - [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+
+- ## Day-5
+
+  - [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+  - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
