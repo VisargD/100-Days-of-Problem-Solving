@@ -24,3 +24,8 @@
 
   - [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
   - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+
+- ## Day-6
+
+  - [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+  - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
