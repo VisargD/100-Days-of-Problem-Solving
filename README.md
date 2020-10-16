@@ -29,3 +29,8 @@
 
   - [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
   - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+
+- ## Day-7
+
+  - [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
+  - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
