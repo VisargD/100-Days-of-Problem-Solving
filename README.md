@@ -1,4 +1,4 @@
-# 100-Days-of-DSAlgo
+# 100-Days-of-Problem-Solving
 
 - ## Day-1
 
@@ -34,3 +34,8 @@
 
   - [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
   - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+
+- ## Day-8
+
+  - [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+  - [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
