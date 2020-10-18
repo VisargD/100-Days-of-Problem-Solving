@@ -39,3 +39,8 @@
 
   - [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
   - [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+
+- ## Day-9
+
+  - [Kick Start](https://codingcompetitions.withgoogle.com/kickstart/round/00000000001a0069/0000000000414bfb)
+  - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
