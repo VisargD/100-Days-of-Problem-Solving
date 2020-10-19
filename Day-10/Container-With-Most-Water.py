@@ -36,7 +36,7 @@ class Solution:
             # On every iteration, floor height will decrease by 1 as one of the bar of container will move.
             floor -= 1
 
-            # Everytime move the smaller bar in hope that a larger bar will occur next.
+            # Everytime move the smaller bar.
             # If left bar is higher than the right bar then move the right index towards left side (decrement).
             if height[i] > height[j]:
                 j -= 1
