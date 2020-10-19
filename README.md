@@ -44,3 +44,8 @@
 
   - [Kick Start](https://codingcompetitions.withgoogle.com/kickstart/round/00000000001a0069/0000000000414bfb)
   - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+- ## Day-10
+
+  - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+  - [Sort Colors](https://leetcode.com/problems/sort-colors/)
