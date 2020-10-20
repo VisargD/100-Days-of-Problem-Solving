@@ -14,7 +14,11 @@ Problem Link: https://leetcode.com/problems/reverse-linked-list/
 class Solution:
     def reverseList(self, head: ListNode) -> ListNode:
 
-        # On every iteration, change the 'next' pointer of node to the previous node and then move all the pointers by 1.
+        # Loop until head is not NULL.
+        # In every iteration, store the next node in temp.
+        # Then change the 'next' pointer of 'head' node to previous node.
+        # Now shift the 'prev' to 'head' and 'head' to the next node which is stored in 'temp'.
+        # Initially set 'prev' to NULL.
         prev = None
         while head:
             temp = head.next
