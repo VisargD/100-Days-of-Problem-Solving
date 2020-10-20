@@ -49,3 +49,8 @@
 
   - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
   - [Sort Colors](https://leetcode.com/problems/sort-colors/)
+
+- ## Day-11
+
+  - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+  - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
