@@ -18,22 +18,16 @@ class Solution:
         # Looping through all the values of the 'nums' list
         for x in nums:
 
-            # If x is already present in the dictionary as a key, then it means that it is repeating.
-            # So, increment the value of the x in the dictionary by 1.
+            # As the problem states, all the values either occur once or twice only and not more than that.
+            # If x is in the dictionary then it means that the number has already occured once and it is repeating now.
+            # So add x to the 'duplicates' list.
             if x in hash_table:
-                hash_table[x] += 1
+                duplicates.append(x)
 
-            # If x is not present in the dictionary, then it means that it occured for the first time.
+            # If x is not present in the dictionary then it means that it is occuring for the first time.
             # So set its value to 1.
             else:
                 hash_table[x] = 1
 
-        # After the dictionary is populated with frequency of all the values of the 'nums' list,
-        # Check for the key whose value is equal to 2 (i.e, occurs twice).
-        # If found then add it to the 'duplicates' list.
-        for key in hash_table:
-            if hash_table[key] == 2:
-                duplicates.append(key)
-
-        # Return the duplicates list that contains all the value that occured twice.
+        # Return the 'duplicates' list which will contains all the values that occured twice.
         return duplicates
