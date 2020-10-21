@@ -54,3 +54,7 @@
 
   - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
   - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+
+- ## Day-12
+
+  - [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
