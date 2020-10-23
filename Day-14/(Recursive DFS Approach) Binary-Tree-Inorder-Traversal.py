@@ -26,36 +26,31 @@ class Solution:
     def inorderTraversal(self, root: TreeNode) -> List[int]:
 
         # inorder will be used to store the inorder traversal.
-        # stack will be used as a stack
         inorder = []
-        stack = []
 
         # If the tree is empty then return empty list.
         if not root:
             return []
 
         # Helper function to perform recursive Depth First Search (DFS).
-        def dfs(root, inorder, stack):
-
-            # Push the current value to stack.
-            # As empty tree condition is already checked above, this will not create any error.
-            stack.append(root.val)
+        def dfs(root, inorder):
 
             # This is the same as the approach discussed above in the starting.
             # Left->Root->Right.
+
             # Recursively call the function for the left subtree.
-            # If all the nodes of any left subtree are visited then pop the stack and add value to inorder list.
+            # If we reached the leftmost node of a subtree then add it to the inorder list.
             # Then visit root and then the right subtree.
             if root.left:
-                dfs(root.left, inorder, stack)
-            inorder.append(stack.pop())
+                dfs(root.left, inorder)
+            inorder.append(root.val)
 
             # Recursively call the function for the right subtree.
             if root.right:
-                dfs(root.right, inorder, stack)
+                dfs(root.right, inorder)
 
             # Return the final 'inorder' list.
             return inorder
 
         # Call the helper function for the input.
-        return dfs(root, inorder, stack)
+        return dfs(root, inorder)
