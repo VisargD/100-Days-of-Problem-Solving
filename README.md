@@ -2,77 +2,83 @@
 
 This repository contains accepted solution for several coding Problems that I have solved during my 100 Days of Problem Solving Journey. Below is the list of problems that I solved on a daily basis along with the original problem link. This repo contains day-wise folder which includes one or more solutions for the problems that I solved on that day.
 
-- ## Day-1
+- ## Week 1
 
-  - [Move Zeros](https://leetcode.com/problems/move-zeroes/)
-  - [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
+  - ### Day-1
 
-- ## Day-2
+    - [Move Zeros](https://leetcode.com/problems/move-zeroes/)
+    - [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
 
-  - [Two Sum](https://leetcode.com/problems/two-sum/)
-  - [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)
+  - ### Day-2
 
-- ## Day-3
+    - [Two Sum](https://leetcode.com/problems/two-sum/)
+    - [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)
 
-  - [Path Crossing](https://leetcode.com/problems/path-crossing/)
-  - [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+  - ### Day-3
 
-- ## Day-4
+    - [Path Crossing](https://leetcode.com/problems/path-crossing/)
+    - [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 
-  - [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)
-  - [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+  - ### Day-4
 
-- ## Day-5
+    - [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)
+    - [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
-  - [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
-  - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+  - ### Day-5
 
-- ## Day-6
+    - [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+    - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 
-  - [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
-  - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+  - ### Day-6
 
-- ## Day-7
+    - [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+    - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 
-  - [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
-  - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+  - ### Day-7
 
-- ## Day-8
+    - [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
+    - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 
-  - [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
-  - [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+- ## Week 2
 
-- ## Day-9
+  - ### Day-8
 
-  - [Kick Start](https://codingcompetitions.withgoogle.com/kickstart/round/00000000001a0069/0000000000414bfb)
-  - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+    - [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+    - [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 
-- ## Day-10
+  - ### Day-9
 
-  - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
-  - [Sort Colors](https://leetcode.com/problems/sort-colors/)
+    - [Kick Start](https://codingcompetitions.withgoogle.com/kickstart/round/00000000001a0069/0000000000414bfb)
+    - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
-- ## Day-11
+  - ### Day-10
 
-  - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
-  - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+    - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+    - [Sort Colors](https://leetcode.com/problems/sort-colors/)
 
-- ## Day-12
+  - ### Day-11
 
-  - [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+    - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+    - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 
-- ## Day-13
+  - ### Day-12
 
-  - [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+    - [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 
-- ## Day-14
+  - ### Day-13
 
-  - [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+    - [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 
-- ## Day-15
+  - ### Day-14
 
-  - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+    - [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 
-- ## Day-16
+- ## Week 3
 
-  - [Same Tree](https://leetcode.com/problems/same-tree/)
+  - ### Day-15
+
+    - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+
+  - ### Day-16
+
+    - [Same Tree](https://leetcode.com/problems/same-tree/)
