@@ -1,5 +1,7 @@
 # 100-Days-of-Problem-Solving
 
+This repository contains accepted solution for several coding Problems that I have solved during my 100 Days of Problem Solving Journey. Below is the list of problems that I solved on a daily basis along with the original problem link. This repo contains day-wise folder which includes one or more solutions for the problems that I solved on that day.
+
 - ## Day-1
 
   - [Move Zeros](https://leetcode.com/problems/move-zeroes/)
