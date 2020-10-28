@@ -82,3 +82,7 @@ This repository contains accepted solution for several coding Problems that I ha
   - ### Day-16
 
     - [Same Tree](https://leetcode.com/problems/same-tree/)
+
+  - ### Day-17
+
+    - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
